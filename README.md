@@ -18,3 +18,5 @@ You may contact me via GitHub
 
 **License information:**
 Licensed via the MIT XPRO JavaScript course.
+
+<br>
