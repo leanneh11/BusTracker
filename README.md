@@ -1,6 +1,7 @@
 
 
-<button type="button" onclick=href="https://leanneh11.github.io/LeanneH/" >Click Me!</button>
+<button type="button">Click Me!</button>
+
 <a href="https://leanneh11.github.io/LeanneH/" >BACK TO PORTFOLIO</a>
 
 
