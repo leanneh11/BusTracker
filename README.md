@@ -1,5 +1,4 @@
-# BusTracker
-# Real_Time_Bus_Tracker
+# Real Time Bus Tracker
 
 **Description:**
 This is week nine's JavaScript project to track buses on a Boston city map using HTML, CSS, and JavaScript.
