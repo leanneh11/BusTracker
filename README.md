@@ -1,15 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>The button Element</h1>
-
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
- 
-</body>
-</html>
-
 <a href="https://leanneh11.github.io/LeanneH/" >BACK TO PORTFOLIO</a>
 
 
