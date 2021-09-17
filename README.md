@@ -18,8 +18,7 @@ First install the files. To install, please download the files to your laptop.  
 You may contact me via GitHub or LinkedIn
 
 **License information:**
-Licensed via the MIT XPRO JavaScript course.
-IT License
+MIT License
 
 Copyright (c) 2021 omarqumo23
 
@@ -40,6 +39,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 <br>
 
