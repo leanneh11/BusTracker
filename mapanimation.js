@@ -43,5 +43,4 @@ async function fetchBusLocations(){
 	const json     = await response.json();
 	return json.data;
 }
-
 run();
