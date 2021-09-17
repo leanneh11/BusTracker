@@ -14,6 +14,12 @@ In this activity, I used the Boston MBTA bus data to determine stops between Har
 **How to Run the Program:**
 First install the files. To install, please download the files to your laptop.  To execute, drag index.html onto your browser's URL window.
 
+**Roadmap of Future Improvements:**
+The plan for improving this program includes the following:
+- Using an actual bus icon to represent the buses on the map
+- Finding and using public data from a different city, preferably a major foreign city such as London, UK
+- Examining other public data that I could integrate on this map, such as hospital locations.
+
 **Support:**
 You may contact me via GitHub or LinkedIn
 
