@@ -11,14 +11,11 @@ In this activity, I used the Boston MBTA bus data to determine stops between Har
 <br>
 <img src="BusTracker.png" width='500' />
 
-**Installation:**
-To install, please download the files to your laptop.  
-
-**Usage:**
-To use/execute, drag index.html onto the browser
+**How to Run the Program:**
+First install the files. To install, please download the files to your laptop.  To execute, drag index.html onto your browser's URL window.
 
 **Support:**
-You may contact me via GitHub
+You may contact me via GitHub or LinkedIn
 
 **License information:**
 Licensed via the MIT XPRO JavaScript course.
